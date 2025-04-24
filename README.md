@@ -8,5 +8,7 @@ A extension to fully nonlinear PDEs of the original FBSNN (Forward-Backward SDEs
         (running on TensorFlow2 (TF2) + pyTorch) 
 
 ./FBSNNs_tf1_FnL_1D - original framework for  
+
         - Fully non Linear Parabolic Equation (x in R^D) 
+        
         - system ((1+D) equations) of quasi linear PDEs 
